@@ -29,3 +29,15 @@ The dashboard that is the current data for current water cycle
 or in nutritional sleep iteration would be current fast.
 
 dashboard & calendar will be almost the whole app.
+
+bookmarking a message to myself that in noticing:
+
+mine-nugget-ts:
+// no use for calendar.
+page 1: displays every piece of API data from fs.json or postgres besides the data.strain.parentGeneticsOfStrain
+page 2: creates a simple guessing game out of providing the data.strain.parentData withHeld from display from page. User can guess child based on parents.
+page 3: search page with magnifying glass. toggle between seeing reviews/likes from other users with other strains. 
+
+I bookmark in this commit that I think I'd be slightly more proficient in computer programming if I allowed a sorting system that designated the next app to create: (calendar or no calendar?)
+
+
