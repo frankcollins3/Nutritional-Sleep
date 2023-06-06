@@ -29,6 +29,7 @@ The dashboard that is the current data for current water cycle
 or in nutritional sleep iteration would be current fast.
 
 dashboard & calendar will be almost the whole app.
+// GotchaSheep -----> TomaGatchi knockoff: sheep.feed() && tend heart bar levels. [might link this to "food list" and allow human to feed sheep the food it would've eaten while fasting]
 
 bookmarking a message to myself that in noticing:
 
@@ -39,5 +40,7 @@ page 2: creates a simple guessing game out of providing the data.strain.parentDa
 page 3: search page with magnifying glass. toggle between seeing reviews/likes from other users with other strains. 
 
 I bookmark in this commit that I think I'd be slightly more proficient in computer programming if I allowed a sorting system that designated the next app to create: (calendar or no calendar?)
+
+
 
 
