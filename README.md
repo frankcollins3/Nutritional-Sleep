@@ -29,7 +29,10 @@ The dashboard that is the current data for current water cycle
 or in nutritional sleep iteration would be current fast.
 
 dashboard & calendar will be almost the whole app.
-// GotchaSheep -----> TomaGatchi knockoff: sheep.feed() && tend heart bar levels. [might link this to "food list" and allow human to feed sheep the food it would've eaten while fasting]
+// GotchaSheep -----> TomaGatchi knockoff: 
+1:sheep.feed() && tend heart bar levels. [might link this to "food list" and allow human to feed sheep the food it would've eaten while fasting]
+2 human stays happy fasting. Sheep helps human.
+
 
 bookmarking a message to myself that in noticing:
 
