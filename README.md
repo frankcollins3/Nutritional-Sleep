@@ -44,7 +44,20 @@ page 1: displays every piece of API data from fs.json or postgres besides the da
 page 2: creates a simple guessing game out of providing the data.strain.parentData withHeld from display from page. User can guess child based on parents.
 page 3: search page with magnifying glass. toggle between seeing reviews/likes from other users with other strains. 
 
-
-
-
-
+<Context>
+ 
+ RegexContext
+ *** 3: RstringAfterPeriod || mSplitAtDot           provide first Letter to indicate whether Replace or Match is used for that regex.  (also i.e.) -> asteriskSplit: name splits    ***
+type RegexContextType = {
+    RstringAfterPeriod: RegExp;
+    RreturnLettersAthruZ: RegExp;
+    RreturnNumbers: RegExp;
+    RhasCaps: RegExp;
+    RhasNums: RegExp;
+    RnoWhiteSpace: RegExp;
+    MsplitAtDot: RegExp;
+  }
+ 
+ ImageContext
+ 
+might use the fasting data as an <App-Wrapping-Context>
