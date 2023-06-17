@@ -61,3 +61,7 @@ type RegexContextType = {
  ImageContext
  
 might use the fasting data as an <App-Wrapping-Context>
+
+
+AM | PM timing: 
+{time <= 12 ? time : time - 12}:00 {time < 12 ? 'am' : 'pm'}
