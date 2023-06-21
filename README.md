@@ -65,3 +65,28 @@ might use the fasting data as an <App-Wrapping-Context>
 
 AM | PM timing: 
 {time <= 12 ? time : time - 12}:00 {time < 12 ? 'am' : 'pm'}
+
+
+To render fasting data make an array that has [progress] and weekly status. Loop over the data array and check for progress and status to determine whether UI shows successful or not fast 
+`  const renderSchedule = () => {
+    
+    return HYDRO_SCHEDULE.map((time:any, index:number) => (
+      
+      <ConnectedReminder
+        key={index}
+        time={time}
+        amt={(hydroIntake / hydroSchedule.length) * (index + 1)}
+        amtper={hydroIntake / hydroSchedule.length}
+        percent={Math.floor(
+          (((hydroIntake / hydroSchedule.length) * (index + 1)) / hydroIntake) *
+            100 -
+            1
+        )}
+        index={index}
+        // handleClick={handleClick}
+        status={status}
+        setStatus={setStatus}
+        disabled={disabled}
+        setDisabled={setDisabled}
+      />
+    ));`
