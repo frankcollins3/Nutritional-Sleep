@@ -59,6 +59,8 @@ type RegexContextType = {
   }
  
  ImageContext
+
+PromisesContext.tsx for redux and any other Promises 
  
 might use the fasting data as an <App-Wrapping-Context>
 
