@@ -1,12 +1,13 @@
 # Nutritional-Sleep
 The sleep themed, sheep themed fasting tracker &amp; fan page 
-
+A0CB51 // found the green for this app with a typo for journaldojo's brown: #A06B51
 
 
 zZz this app is about rest and healing. 
 
 
 heart-shaped-cursor: CSS($('*'), 'cursor', `url('/water_img/heart.png'), auto`)       
+
 
 // was going to write this as the commit but it's very important to know so keeping it internal:
 this app, like waterapp/WAPP/fill_cont:
