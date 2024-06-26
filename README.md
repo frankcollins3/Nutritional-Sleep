@@ -2,6 +2,11 @@
 The sleep themed, sheep themed fasting tracker &amp; fan page 
 A0CB51 // found the green for this app with a typo for journaldojo's brown: #A06B51
 
+##### Water-App:
+water app needs an update which would allow "activity level" to influence water intake during a water scheduling app based on height, weight, age, activity, etc.
+Similarly to awaiting water app features, wishlisting fasting app includes activity levels as well to create algo which limits activity in recognition of sarcopenia 
+// note this is not a startup not anything medically legitimate just playing with info created from behaviors like fasting or sipping water and UI.
+// // while writing up this commit: of course allow integration with AI models or wearables like whoop|fitbit
 
 zZz this app is about rest and healing. 
 
