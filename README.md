@@ -1,3 +1,29 @@
+#### 
+// sidenote: working on attempted startup of social app first then this non-startup-design-heavy-fasting-app will probably be done next
+// POSSIBLE IMPROVEMENTS: 
+TL:DR; no XP using but researching device, seems that whoop overexpects sleep as a static number influenced only by heart rate 
+(which is valid to an extent ecxluding some below, and cites a counter provided by Dr Michael Breus "sleep doctor" experiences)
+whoop wearable, don't have but currently researching, apparently expect a TON of sleep. 
+
+https://www.youtube.com/watch?v=Yl0C3Hv0Hxk 
+// in this episode, actual Dr. Michael Breus ("The Sleep Doctor") "I sleep at midnight every day, up at 6:15, drink water bottle, get sun I'm fine"  
+// excerpts from google: "In fact, the average sleep need for WHOOP members is 8:34 per night"
+// one could say with that information that it's a clean 25% drop from the 8 hours. 
+
+Again: !startup,  !need-filling-attempt just a love-letter to fasting with a design concept iterated through sleep (but maybe it's accurate enough too
+
+notes on the matter:
+- my whoop worry: since Icurrently sleep fine on 6.5-8 usually 7(ish) hours which whoop would say increase "speak into existence" start feeling worse in reseponse
+
+working on starting a meditation habit and aparently
+
+from GEMINI/google first result:
+Meditation and Non-Sleep Deep Rest (NSDR) are different practices that can both promote relaxation and rejuvenation, but it's hard to say how much meditation is//
+
+// analogy b/w "rest as in digestion or as in sleep" if app actually incorporates sleep data. the sleep based play on words nullifies & becomes literal
+
+* * * * * * * * * * * * * * * * * * * * * * * * * *
+
 # Nutritional-Sleep
 The sleep themed, sheep themed fasting tracker &amp; fan page 
 A0CB51 // found the green for this app with a typo for journaldojo's brown: #A06B51
