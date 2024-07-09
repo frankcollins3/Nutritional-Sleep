@@ -1,3 +1,17 @@
+#### if only this fasting app could answer this question:
+3% of workaholics feel physically ill when they are not at work, mimicking withdrawal symptoms that are associated with addictive drugs.
+# after 3 hours code feel uplifted, relaxed, "calm and alert - huberman". Startup rn so 9-12 more hrs code to go but QUESTION:
+(after establishing context through Anna Lembke's words: bombard brain with dopamine it adapts by downregulating)
+
+    So theoretically I feel normal after blasting brain with dopamine from coding over and over. How long would feeling normal last without coding and without stimulation before the urge & feeling to stimulate & work resurfaces?
+ did wim-hof breathe and realized after 3 hours of code today I feel super normal. I can't test right now since attempting-startup but experiment would be: 
+ // 1 how long does it take to feel "normal" (maybe I didn't pay attention 2 hours ago and it takes 60 mins)
+ // once one feels "normal" how long does that last, without stimulation, before one feels urge to stimulate ?
+
+ // note this is a non-startup fasting app that might have cute-shirt as mock-ecommerce projects and possibly contact form for "coaching" but it won't be serious just as measure of proof-of-concept
+ * * * * * * * * * * * * * * * * *
+
+
 #### 
 // sidenote: working on attempted startup of social app first then this non-startup-design-heavy-fasting-app will probably be done next
 // POSSIBLE IMPROVEMENTS: 
