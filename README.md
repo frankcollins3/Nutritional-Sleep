@@ -138,3 +138,13 @@ To render fasting data make an array that has [progress] and weekly status. Loop
         setDisabled={setDisabled}
       />
     ));`
+
+// loose update:
+seretonin boost as seen in increased BDNF and seretonin of ramadan participants.
+sought above by asking "when does seretonin boost from fasting" to google:
+first search result: 5-10 day plasma-seretonin boost.
+while digging found the information related to ramadan which is more a 12-17hr (but dry?) fast 
+Imagine the UI telling you: You're feeling:
+more connected, more comfortable, more confident, more consistent, NO COINCIDENCE! 
+// it sounds crazy till you realize our advertisements bombard us with absolute opposite
+
