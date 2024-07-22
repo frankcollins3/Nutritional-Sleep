@@ -1,3 +1,10 @@
+#### why make a fasting app? // because of some of my adjustments in how I look at the process it actually leans into what Rory Sutherland DOAC discusses (below):
+don't make the eurostar faster make the journey more enjoyable - "one of most clever reframings you could do" Rory sutherland 
+alchemy: if you want to improve how people feel, psychological improvement is a better place to start than rational improvement - Rory.
+it's a cheaper way to compete and strangely, engineers think it's cheating.
+// also building a social media concept and it actually does the same thing it's a perspective shift wrapped up as a process-adjustment 
+* * * * * * * * * * * * * * * * * *
+
 #### if only this fasting app could answer this question:
 3% of workaholics feel physically ill when they are not at work, mimicking withdrawal symptoms that are associated with addictive drugs.
 # after 3 hours code feel uplifted, relaxed, "calm and alert - huberman". Startup rn so 9-12 more hrs code to go but QUESTION:
