@@ -1,3 +1,8 @@
+#### fun add:
+meta ray ban glasses (API?)
+during pang -> "meta play lion roaring sounds" | "meta show 2 grizzlies fighting" | "meta show submarine going deeper into water" 
+could probably do some weird stuff with Sora when it comes out in terms of visual/audio analogies for hunger pangs to distract from discomfort (if)
+
 #### why make a fasting app? // because of some of my adjustments in how I look at the process it actually leans into what Rory Sutherland DOAC discusses (below):
 don't make the eurostar faster make the journey more enjoyable - "one of most clever reframings you could do" Rory sutherland 
 alchemy: if you want to improve how people feel, psychological improvement is a better place to start than rational improvement - Rory.
